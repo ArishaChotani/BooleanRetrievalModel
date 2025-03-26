@@ -1,5 +1,7 @@
 Boolean Retrieval Model with a gui.
-Instructions : 
+
+
+Instructions(for code) : 
 1. Download BRM.zip 
 2. open with vs code
 3. before running code download nltk packages (incase)
